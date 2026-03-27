@@ -1,4 +1,9 @@
+# DATE : 27/02/2026
 # EXPT.NO-8-IMPLEMENTATION-OF-GO-BACK-N-PROTOCOL-SLIDING-WINDOW
+
+## Mathan kailash S 
+## 212223060156
+
 # AIM
 To write and execute a program for Go-Back-N protocol.
 # EQUIPMENTS REQUIRED
@@ -43,9 +48,9 @@ printf("\n All frames sent successfully.\n");
 
 # OUTPUT
 
+<img width="1280" height="757" alt="image" src="https://github.com/user-attachments/assets/21e39cd1-621e-4172-8a0d-32264558ac13" />
  
 
+# RESULT:
 
-
-
-# RESULT: Thus the Go-Back-N protocol-Sliding Window was implemented and the output is verified successfully.
+Thus the Go-Back-N protocol-Sliding Window was implemented and the output is verified successfully.
